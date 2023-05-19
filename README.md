@@ -7,14 +7,25 @@ Link Deploy: https://georgia-rocha.github.io/newsletter
 <summary><strong>Para clonar e testar</strong></summary><br />
 
 1. Clone o repositório
-* `git clone git@github.com:georgia-rocha/newsletter.git`
+```
+git clone git@github.com:georgia-rocha/newsletter.git`
+```
+
 * Entre na pasta do repositório que você acabou de clonar:
 
+```
+cd newsletter
+```
+
 2. Instale as dependências:
-* `npm install`
+```
+npm install
+```
 
 3. Iniciar a aplicação na sua máquina:
-  * `npm run dev`
+```
+npm run dev
+```
 
 ## O que foi desenvolvido
 
