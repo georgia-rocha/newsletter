@@ -1,6 +1,6 @@
 # Boas-vindas ao repositório do projeto de NewsLetter! 🚀
 
-![img](newsletter.gif)
+![img](newletter.gif)
 
 Link Deploy: https://georgia-rocha.github.io/newsletter
 
